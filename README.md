@@ -5,10 +5,10 @@ And chenge in branch now
 
 Zmiana w masterze
 
-I jeszcze jedna zmiana w mastrze ale zmiana w gównym
+I jeszcze jedna zmiana w mastrze ale zmiana w gÃ³wnym
 
 test
 
 treyu iuiougfhj
 
-gfgh
+gfgh TEST HEAD
