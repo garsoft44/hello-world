@@ -17,3 +17,5 @@ gfgh TEST HEAD
 Zmiany na branchu poprawki
 
 Zmiany do Zmiany Branch
+
+Dla Pull master
