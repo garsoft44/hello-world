@@ -12,3 +12,5 @@ test
 treyu iuiougfhj
 
 gfgh TEST HEAD
+
+Zmiany na branchu poprawki
